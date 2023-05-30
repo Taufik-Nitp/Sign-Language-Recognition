@@ -65,7 +65,7 @@ class Application:
         self.panel3.place(x = 500,y=640)
         self.T1 = tk.Label(self.root)
         self.T1.place(x = 10,y = 640)
-        self.T1.config(text="Character :",font=("Courier",40,"bold"))
+        self.T1.config(text="Characterss :",font=("Courier",40,"bold"))
         self.panel4 = tk.Label(self.root) # Word
         self.panel4.place(x = 220,y=700)
         self.T2 = tk.Label(self.root)
